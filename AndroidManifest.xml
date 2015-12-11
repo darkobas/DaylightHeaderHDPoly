@@ -9,10 +9,10 @@
 
 	<application
 		android:allowBackup="false"
-		android:label="DaylightHeaderSample" >
+		android:label="DaylightHeaderHDPoly" >
 		<activity
-			android:name=".DaylightHeaderSample"
-			android:label="Sample" >
+			android:name=".DaylightHeaderHDPoly"
+			android:label="HDPoly by Meninblack007" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack" />
 
